@@ -1,0 +1,19 @@
+{
+  "name": "landing-tfa-back",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@vercel/node": "^1.10.0"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.1",
+    "nodemailer": "^6.6.1"
+  }
+}
